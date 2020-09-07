@@ -42,7 +42,7 @@ Find the file `index.js` and complete the tasks.
 Edit the `ReadMe` file with your answers.
 
 1. In your own words, define closure (1-2 sentences).
-<!-- closure allows a funtion to have access to a parent scope even outside of the funtion. It is able to reach into the function and bring the function and closure together. -->
+<!-- closure allows a funtion to have access even outside of the funtion. It is able to reach into the function and bring the function and closure together. -->
 2. Study the following code, then answer the questions below.
 
 ```js
@@ -72,7 +72,7 @@ b. Compare and contrast calling `dansRoll` the first and second time. What is al
 
 c. What is the lexical scope of `newRoll`?
 
-<!--  -->
+<!--lexical scope is when a variable outside a function can be accesed within another function. The lexical scope of newRoll is ()  -->
 
 ### Task 2c - Exit Ticket
 
